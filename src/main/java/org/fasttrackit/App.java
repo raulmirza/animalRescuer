@@ -16,7 +16,7 @@ public class App
         animalReference.age = 10;
         animalReference.hungerLevel = 1-10;
         animalReference.mood = 1-10;
-        animalReference.healthCondition = 1-10;
+        animalReference.healthCondition = 1-8;
 
         Rescuer rescuerReference = new Rescuer();
         rescuerReference.availableMoney = 1-1000;
