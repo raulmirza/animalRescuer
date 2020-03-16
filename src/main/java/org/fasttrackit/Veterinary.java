@@ -2,6 +2,7 @@ package org.fasttrackit;
 
 public class Veterinary {
     String name;
-    String degree;
+    String specialization;
+
 
 }

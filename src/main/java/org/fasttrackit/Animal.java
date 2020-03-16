@@ -6,5 +6,6 @@ public class Animal {
     int healthCondition;
     int hungerLevel;
     int mood;
-
+    String favoriteFood;
+    String favoriteGame;
 }
